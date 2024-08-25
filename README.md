@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/Screenshot%202024-08-25%20193121.png)
+![](./social-links-profile-main/assets/images/Screenshot%202024-08-25%20193121.png)
 
 
 ### Links
