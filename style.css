@@ -21,7 +21,7 @@ img {
     top: 25px;
 }
 .social-card{
- width: clamp(296px,70vw,370px);
+ width: clamp(296px,70vw,350px);
  min-height: 550px;
  background-color: hsl(0, 0%, 12%);
 display: flex;
@@ -80,6 +80,9 @@ height: 230px;
 
 .social-card a:active {
     background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 12%);
+}
+.social-card a:hover {
     color: hsl(0, 0%, 12%);
     
 }
